@@ -4,7 +4,7 @@ username:
 bio: "Full Stack Ninja"
 site: Dude, this is the site
 avatar: avatar.png
-email: mail@sujaykundu.com
+email: 
 social:
     - title: "github"
       url: "https://github.com/RexRowan"
