@@ -2,7 +2,7 @@
 identifier: rex-tshrirt
 name: Rex Forever Tshirt
 price: 50
-image: /assets/img/products/product1rext.jpg
+image: /assets/img/products/rext.jpg
 ---
 
 # Rex Forever Tshirt
