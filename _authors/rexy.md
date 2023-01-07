@@ -1,6 +1,6 @@
 ---
 name: Rexy Fookin Shelby
-username: 
+username: Rexy
 bio: "Full Stack Ninja"
 site: Dude, this is the site
 avatar: avatar.png
