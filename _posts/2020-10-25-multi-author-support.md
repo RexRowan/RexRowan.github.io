@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  "Added Multi Author Support"
-summary: "Multi Author Support allows to create articles with different Authors"
+title:  "Artemis"
+summary: "Do you science bro"
 author: Rexy
 date: '2020-10-25 1:35:23 +0530'
 category: jekyll
-thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
+thumbnail: /assets/img/posts/Artemis.jpg
+keywords: genomics
 usemathjax: true
-permalink: /blog/added-multi-author-support/
+permalink: /blog/Artemis/
 ---
 
-## Hello
+## Artemis
+
+Artemis is a genome browser and annotation tool that allows visualisation of sequence features, next generation data and the results of analyses within the context of the sequence, and also its six-frame translation.
 
 
 
